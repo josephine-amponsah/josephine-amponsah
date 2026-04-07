@@ -96,10 +96,10 @@
 ---
 
 ## 🌱 Currently Exploring
-- Advanced NLP with Transformer architectures
+- Deep Learning for financial forecasting and risk modelling
+- Advanced NLP (LLMs) with Transformer architectures
 - Quantitative methods for finance and risk modelling
 - Scalable ML pipelines and MLOps practices
-- Deep Learning for financial forecasting and risk modelling
 
 ---
 
@@ -109,7 +109,7 @@
 - 🐙 [GitHub](https://github.com/josephine-amponsah)
 - 📧 josephine.amponsah98@gmail.com
 
-***🚀 Let's build data solutions that actually matter!***
+***🚀 Let's build ai/ml solutions that actually matter!***
 
 ---
 
