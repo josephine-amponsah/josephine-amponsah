@@ -2,7 +2,7 @@
 
 **📊 Data Scientist | 🎓 MSc Data Science @ UT Austin**
 
-📌 Passionate about **Statistical Modelling, Machine Learning, and turning data into actionable insights — especially in Fintech & Finance**
+📌 Passionate about **Statistical Modelling, Machine Learning, and turning data into actionable insights — especially in Fintech & Finance(Risk and Fraud)**
 
 ---
 
