@@ -105,7 +105,7 @@
 
 ## 🤝 Let's Connect
 - ✍️ [Medium](https://medium.com/@josephine-amponsah)
-- 💼 [LinkedIn](https://linkedin.com/in/josephine-amponsah-baah)
+- 💼 [LinkedIn](https://www.linkedin.com/in/josephine-amponsah-baah-73379a151/)
 - 🐙 [GitHub](https://github.com/josephine-amponsah)
 - 📧 josephine.amponsah98@gmail.com
 
