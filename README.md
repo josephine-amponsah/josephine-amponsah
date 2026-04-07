@@ -2,7 +2,7 @@
 
 **📊 Data Scientist | 🎓 MSc Data Science @ UT Austin**
 
-📌 Passionate about **Statistical Modelling, Machine Learning, and AI advancements in Fintech & Finance(Risk and Fraud)**
+📌 Passionate about **Statistical Modelling, Machine Learning, and AI advancements in Fintechs & Finance(Risk and Fraud)**
 
 ---
 
