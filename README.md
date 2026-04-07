@@ -77,7 +77,6 @@
 - **MSc. Data Science** — University of Texas, Austin *(Aug 2024 – Apr 2026)*
   - Courses: Machine Learning, Deep Learning, NLP, Advanced Predictive Modelling, Probability & Statistics
 - **BSc. Engineering (Chemical)** — Kwame Nkrumah University of Science & Technology
-- **Azure Data Scientist Associate** *(Sept 2023 – Sept 2026)*
 
 ---
 
