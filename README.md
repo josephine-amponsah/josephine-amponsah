@@ -85,6 +85,8 @@
 - 🎤 **DevX 2025** – Talk on Statistical & ML-based Fraud Risk Prediction Methods
 - 🎤 **PyCon Ghana 2025** – Talk on Geospatial Segmentation for Risk Assessment
 - 📝 **Technical Writing** – Publishing articles on practical ML, mathematics, and finance concepts for data practitioners
+- [Explainable Credit Risk Scorer w/t DeepLearning](https://github.com/josephine-amponsah/credit-scoring-nlp-dl)
+- [Options Price Volatility Forecasting](https://github.com/josephine-amponsah/price_volatility_prediction)
 - 📦 [Bayesian Personlaized Recommender](https://github.com/josephine-amponsah/bpr-recommender) – An implicit feedback optimisation framework that learns user preferences by ranking purchased items above unobserved ones
 - 💬 **Aspect-Based Sentiment Analysis** – BERT + Word2Vec ABSA model on user reviews to generate fine-grained customer sentiments
 
