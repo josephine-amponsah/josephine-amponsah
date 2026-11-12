@@ -1,7 +1,7 @@
 # Hi, I'm Josephine Amponsah Baah 👋
 
 **📊 Data scientist in risk: credit, fraud and market risk**
-🎓 MSc Data Science, UT Austin · 📈 FRM candidate (GARP) · ☁️ Azure Data Scientist Associate · 📍 Accra, Ghana
+🎓 MSc Data Science, UT Austin · 📈 FRM candidate (GARP) · ☁️ Azure Data Scientist Associate ·
 
 I build models that decide who gets credit, catch fraud before it costs money, and measure how much a portfolio can lose. I have more than five years of experience in fintech and e-commerce, most recently at a digital lender operating in four countries, where my models ran in production.
 
@@ -53,8 +53,6 @@ Two connected projects:
 | | Marketing mix model | **+7%** conversion |
 | 💳 **Broadspectrum** · digital payments | Dispute analysis | disputes down from hundreds a month to **under 50** |
 | | Automated financial reporting | **−70%** reporting time |
-
-At Fido I also built the dbt layer that defines risk metrics, reviewed every model release in CI/CD, deployed risk models on AWS with drift monitoring, and automated the central bank audited reports.
 
 ---
 
