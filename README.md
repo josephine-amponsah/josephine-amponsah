@@ -54,7 +54,7 @@ Two connected projects:
 | 💳 **Broadspectrum** · digital payments | Dispute analysis | disputes down from hundreds a month to **under 50** |
 | | Automated financial reporting | **−70%** reporting time |
 
-At Fido I also built the dbt layer that defines risk metrics, reviewed every model release in CI/CD, deployed risk models on AWS with drift monitoring, and rebuilt the Bank of Ghana MAGS 100 regulatory report after an audit.
+At Fido I also built the dbt layer that defines risk metrics, reviewed every model release in CI/CD, deployed risk models on AWS with drift monitoring, and automated the central bank audited reports.
 
 ---
 
